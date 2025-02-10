@@ -1,0 +1,15 @@
+# Development files
+src/
+tests/
+.github/
+.git/
+.gitignore
+.npmignore
+*.log
+tsconfig.json
+vite.config.ts
+
+# Build artifacts
+coverage/
+.nyc_output/
+*.tsbuildinfo
